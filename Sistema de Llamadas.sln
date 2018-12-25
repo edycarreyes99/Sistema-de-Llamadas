@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema de Llamadas", "Sistema de Llamadas\Sistema de Llamadas.csproj", "{1E3039A6-0E79-4AE1-BEA2-6445541C1EE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E3039A6-0E79-4AE1-BEA2-6445541C1EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E3039A6-0E79-4AE1-BEA2-6445541C1EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E3039A6-0E79-4AE1-BEA2-6445541C1EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E3039A6-0E79-4AE1-BEA2-6445541C1EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8855C970-CC1F-454F-930A-E266D0A8DA54}
+	EndGlobalSection
+EndGlobal
